@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9286258e.css",
+    "main.js": "/react-gh-pages/static/js/main.e328a7b1.js",
+    "static/js/787.09caf250.chunk.js": "/react-gh-pages/static/js/787.09caf250.chunk.js",
+    "static/media/omra.png": "/react-gh-pages/static/media/omra.86f40c832f64563c71d3.png",
+    "static/media/Hotel.png": "/react-gh-pages/static/media/Hotel.afc33a7608297d0fa1c9.png",
+    "static/media/voyorg.png": "/react-gh-pages/static/media/voyorg.2f62bf937ea1d8e884d1.png",
+    "static/media/reservation.png": "/react-gh-pages/static/media/reservation.f898be5b357b4e7cc093.png",
+    "static/media/client.png": "/react-gh-pages/static/media/client.c8a8f5e3ea02d84ce878.png",
+    "static/media/money.png": "/react-gh-pages/static/media/money.ff147ff0cf839dfd7971.png",
+    "static/media/log.png": "/react-gh-pages/static/media/log.cda2027e07cc8098c632.png",
+    "static/media/logo.png": "/react-gh-pages/static/media/logo.190dd77d6eb37114e069.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9286258e.css.map": "/react-gh-pages/static/css/main.9286258e.css.map",
+    "main.e328a7b1.js.map": "/react-gh-pages/static/js/main.e328a7b1.js.map",
+    "787.09caf250.chunk.js.map": "/react-gh-pages/static/js/787.09caf250.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9286258e.css",
+    "static/js/main.e328a7b1.js"
+  ]
+}
